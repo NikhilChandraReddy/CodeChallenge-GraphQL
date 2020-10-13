@@ -3,7 +3,7 @@
 
 
 ## Build:
-- Clone the Entire Application in any IDE(I used IntelliJ). 
+- Clone the entire Application in any IDE(I used IntelliJ). 
 - please run mvn build 
 if you recieve any test failures
 
