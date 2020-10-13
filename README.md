@@ -7,7 +7,7 @@
 - To Build  
 ```run mvn build ```
 
--if you recieve any test failures
+- if you recieve any test failures
 ```run mvn clean install -Dskiptests=true ```
  then you can see the build success
 
