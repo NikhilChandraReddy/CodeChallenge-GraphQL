@@ -4,11 +4,12 @@
 
 ## Build:
 - Clone the entire Application in any IDE(I used IntelliJ). 
-- please run mvn build 
-if you recieve any test failures
+- To Build  
+```run mvn build ```
 
-  run mvn clean install -Dskiptests=true 
-  then you can see the build success
+-if you recieve any test failures
+```run mvn clean install -Dskiptests=true ```
+ then you can see the build success
 
 
 ## Run:
